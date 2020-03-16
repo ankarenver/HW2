@@ -1,7 +1,7 @@
-package homework.tests;
+package hw.tests;
 
-import homework.utilities.BrowserUnit;
-import homework.utilities.DriverFactory;
+import hw.utilities.BrowserUnit;
+import hw.utilities.DriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

@@ -1,4 +1,4 @@
-package homework.utilities;
+package hw.utilities;
 
 public class BrowserUnit {
     public static void wait(int second){
